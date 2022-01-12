@@ -12,7 +12,7 @@
 ### Custom StarGAN
 I trained a cycleGAN using the StarGAN_V2 architecture. I trained the model on a custom dataset that comprised of faces of Black celebrities. 
 The premise of this project was to train a cross domain style transfer model which can perform better on Black faces. 
-This project is still ongoing hence the repository and data is still private.
+This project is still ongoing hence the repository and data are still private.
 
 ### [Hairstyle Detector App](https://www.google.com)
 
