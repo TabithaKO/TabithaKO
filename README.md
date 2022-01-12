@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on art enhancing computer vision models
 - 📫 How to reach me: tkoanda@bu.edu
 - 😄 Pronouns: she/her
-- My [CV]()
+- My [CV](https://github.com/TabithaKO/docs/blob/main/Tabitha_Oanda_CV-2.pdf)
 
 
 
@@ -27,7 +27,6 @@ In this project my partner and I utilized skin color detection and OpenCVs templ
 ### [Kalman Filter Multiple Object Tracking](https://github.com/TabithaKO/MultipleObjectTracking)
 I worked with two classmates to design an algorithm that we used to track and estimate the trajectories of multiple objects (flying bats) in a frame of a video. 
 By applying the algorithm on multiple frames we were able to track the trajectories across an entire video.
-
 
 
 
@@ -60,7 +59,7 @@ This project is still ongoing hence the repository and data are still private.
 In this project I worked with Professor Economo to collect pose estimates of rodents in the lab using computer vision models DeepLabCut (DLC) and Animal Part Tracker (APT). We later used this pose measurements to prefict future position of the rodent using a timeseries model. More details about the project are [here](https://tabithako.github.io/UROP_Summer2020/).
 
 ### Fall 2020 : Disease Diagnosis, Cai Lab, Harvard University
-In this project I trained machine learning models to classify patient records as indicators of certain diseases: Lung Cancer, Arthritis and Coronary Atery Disease. 
+In this project I trained machine learning models to classify patient records as indicators of certain diseases: Lung Cancer, Arthritis and Coronary Atery Disease. I cleaned and processed the training data by writing code to convert keywords in the sample files to CUIs based on the CUI dictionary provided by MIMIC library. The data came from deidentified patient records, Wikiperdia, MedScape and Uptodate websites. 
 
 ### Fall 2019 : Food Classification Betke Lab, Boston University
 In this proejct I worked as an undergraduate intern at the Betke lab under Mona Jalal (PhD). During this time I replicated experiements that had been performed in a previous version of the project that had [been published](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tTXTO0oAAAAJ&citation_for_view=tTXTO0oAAAAJ:eQOLeE2rZwMC). The experiements involved trainining classifiers on Kenyan food images that had been scrapped off of Instagram.
