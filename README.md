@@ -5,14 +5,13 @@
 - 👯 I’m looking to collaborate on art enhancing computer vision models
 - 📫 How to reach me: tkoanda@bu.edu
 - 😄 Pronouns: she/her
+- My [CV]()
 
 
 
 ## Computer Vision Projects
-### Custom StarGAN
-I trained a cycleGAN using the StarGAN_V2 architecture. I trained the model on a custom dataset that comprised of faces of Black celebrities. 
-The premise of this project was to train a cross domain style transfer model which can perform better on Black faces. 
-This project is still ongoing hence the repository and data are still private.
+### Custom Face AutoEncoder
+I trained 4 autoencoders for face images belonging to these groups: Black Women, Black Men, White Women, White Men. The goal of this project was to use autoencoders to compress the image data in order for me to analyze the distribution of the images using simpler models like KNN and logistic regression.
 
 ### [Hairstyle Detector App](https://www.google.com)
 
@@ -48,4 +47,22 @@ I combined the soft robotic muscles and the hand to create an actuated robotic h
 In this project I assembled a robotic car kit and attached a Raspberry Pi camera at the head of the car. 
 I trained an object detection model based on common household items. I wrote a python program to control the car based on the object detected in its path.
 This project inspired the most recent version of the [Data Science in Action summer camp](https://www.hsph.harvard.edu/biostatistics/machine-learning-for-self-driving-cars/).
+
+
+
+## Academic Research (Internships)
+###  Summer 2021 - Current : Custom FaceGAN
+I trained a cycleGAN using the StarGAN_V2 architecture. I trained the model on a custom dataset that comprised of faces of Black celebrities. 
+The premise of this project was to train a cross domain style transfer model which can perform better on Black faces. 
+This project is still ongoing hence the repository and data are still private.
+
+### Summer 2020 : Pose Estimation, Economo Lab, Boston University
+In this project I worked with Professor Economo to collect pose estimates of rodents in the lab using computer vision models DeepLabCut (DLC) and Animal Part Tracker (APT). We later used this pose measurements to prefict future position of the rodent using a timeseries model. More details about the project are [here](https://tabithako.github.io/UROP_Summer2020/).
+
+### Fall 2020 : Disease Diagnosis, Cai Lab, Harvard University
+In this project I trained machine learning models to classify patient records as indicators of certain diseases: Lung Cancer, Arthritis and Coronary Atery Disease. 
+
+### Fall 2019 : Food Classification Betke Lab, Boston University
+In this proejct I worked as an undergraduate intern at the Betke lab under Mona Jalal (PhD). During this time I replicated experiements that had been performed in a previous version of the project that had [been published](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tTXTO0oAAAAJ&citation_for_view=tTXTO0oAAAAJ:eQOLeE2rZwMC). The experiements involved trainining classifiers on Kenyan food images that had been scrapped off of Instagram.
+
 
