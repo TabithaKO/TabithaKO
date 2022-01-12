@@ -61,7 +61,7 @@ In this project I worked with Professor Economo to collect pose estimates of rod
 ### Fall 2020 : Disease Diagnosis, Cai Lab, Harvard University
 In this project I trained machine learning models to classify patient records as indicators of certain diseases: Lung Cancer, Arthritis and Coronary Atery Disease. I cleaned and processed the training data by writing code to convert keywords in the sample files to CUIs based on the CUI dictionary provided by MIMIC library. The data came from deidentified patient records, Wikiperdia, MedScape and Uptodate websites. 
 
-### Fall 2019 : Food Classification Betke Lab, Boston University
+### Fall 2019 : Food Classification, Betke Lab, Boston University
 In this proejct I worked as an undergraduate intern at the Betke lab under Mona Jalal (PhD). During this time I replicated experiements that had been performed in a previous version of the project that had [been published](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tTXTO0oAAAAJ&citation_for_view=tTXTO0oAAAAJ:eQOLeE2rZwMC). The experiements involved trainining classifiers on Kenyan food images that had been scrapped off of Instagram.
 
 
