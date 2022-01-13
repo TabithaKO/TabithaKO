@@ -10,7 +10,7 @@
 
 
 ## Computer Vision Projects
-### Custom Face AutoEncoder
+### [Custom Face AutoEncoder]
 I trained 4 autoencoders for face images belonging to these groups: Black Women, Black Men, White Women, White Men. The goal of this project was to use autoencoders to compress the image data in order for me to analyze the distribution of the images using simpler models like KNN and logistic regression.
 
 ### [Hairstyle Detector App](https://www.google.com)
@@ -53,7 +53,7 @@ This project inspired the most recent version of the [Data Science in Action sum
 ###  Summer 2021 - Current : Custom FaceGAN
 I trained a cycleGAN using the StarGAN_V2 architecture. I trained the model on a custom dataset that comprised of faces of Black celebrities. 
 The premise of this project was to train a cross domain style transfer model which can perform better on Black faces. 
-This project is still ongoing hence the repository and data are still private.
+This project is still ongoing hence the repository and data are still private. However, here's a [video demo](https://drive.google.com/file/d/1maN0SwKNM_VSipfrW2Irdrx3ojYmgSmO/view?usp=sharing) of the image generation process and here's a link to the [StarGAN_V2 paper](https://arxiv.org/abs/1912.01865)
 
 ### Summer 2020 : Pose Estimation, Economo Lab, Boston University
 In this project I worked with Professor Economo to collect pose estimates of rodents in the lab using computer vision models DeepLabCut (DLC) and Animal Part Tracker (APT). We later used this pose measurements to prefict future position of the rodent using a timeseries model. More details about the project are [here](https://tabithako.github.io/UROP_Summer2020/).
