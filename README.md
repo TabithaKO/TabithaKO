@@ -28,6 +28,9 @@ In this project my partner and I utilized skin color detection and OpenCVs templ
 I worked with two classmates to design an algorithm that we used to track and estimate the trajectories of multiple objects (flying bats) in a frame of a video. 
 By applying the algorithm on multiple frames we were able to track the trajectories across an entire video.
 
+### [Custom Object Detector YOLO V3](https://github.com/TabithaKO/signs-YOLO)
+I scraped a custom dataset from a search engine and trained the YOLO V3 network on my images. The goal was to create a custom traffic sign detection model for my robotic car project
+
 
 
 ## Robotics Projects
