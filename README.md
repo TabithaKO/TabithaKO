@@ -10,7 +10,7 @@
 
 
 ## Computer Vision Projects
-### [gans_blazing] (https://github.com/TabithaKO/gans_blazing/blob/main/README.md)
+### [gans_blazing](https://github.com/TabithaKO/gans_blazing) 🔥 🔥 
 This is an extended project where I use face analysis models and GANs to highlight the possible uses of AI in the fashion and beauty industry. I create notebooks that are easy to use for landmark detection, pose estimation, face reenactment, style transfer, and image inpainting. (🤫 🤫 :This is probably the most exciting project I've worked on! 😃 )
 
 ### [Custom Face AutoEncoder](https://github.com/TabithaKO/Autoencoders)
