@@ -16,7 +16,7 @@ This is an extended project where I use face analysis models and GANs to highlig
 ### [Custom Face AutoEncoder](https://github.com/TabithaKO/Autoencoders)
 I trained 4 autoencoders for face images belonging to these groups: Black Women, Black Men, White Women, White Men. The goal of this project was to use autoencoders to compress the image data in order for me to analyze the distribution of the images using simpler models like KNN and logistic regression.
 
-### [Hairstyle Detector App](https://www.google.com)
+### [Hairstyle Detector App](https://github.com/TabithaKO/hair-detector)
 
 This is a hairstyle detection model that was trained on images of Black women with a wide variety of hairstyles. 
 I created a CreateML model that I added to an iOS app that I created and installed on my phone. 
