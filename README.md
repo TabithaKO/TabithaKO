@@ -56,7 +56,7 @@ This project inspired the most recent version of the [Data Science in Action sum
 
 
 ## Academic Research (Internships)
-###  Summer 2021 - Current : Custom FaceGAN
+###  Summer 2021 - May 2022 : Custom FaceGAN
 I trained a cycleGAN using the StarGAN_V2 architecture. I trained the model on a custom dataset that comprised of faces of Black celebrities. 
 The premise of this project was to train a cross domain style transfer model which can perform better on Black faces. 
 This project is still ongoing hence the repository and data are still private. However, here's a [video demo](https://drive.google.com/file/d/1maN0SwKNM_VSipfrW2Irdrx3ojYmgSmO/view?usp=sharing) of the image generation process and here's a link to the [StarGAN_V2 paper](https://arxiv.org/abs/1912.01865)
