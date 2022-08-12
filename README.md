@@ -55,8 +55,11 @@ This project inspired the most recent version of the [Data Science in Action sum
 
 
 
-## Academic Research (Internships)
-###  Summer 2021 - May 2022 : Custom FaceGAN
+## Research (Internships)
+###  Summer 2022 : NERF Robustness, Microsoft Research
+I design and perform experiments to evaluate the robustness of NERFs under different training and testing conditions.
+
+###  Summer 2021 - May 2022 : Custom FaceGAN, Bargal Lab, Boston University
 I trained a cycleGAN using the StarGAN_V2 architecture. I trained the model on a custom dataset that comprised of faces of Black celebrities. 
 The premise of this project was to train a cross domain style transfer model which can perform better on Black faces. 
 This project is still ongoing hence the repository and data are still private. However, here's a [video demo](https://drive.google.com/file/d/1maN0SwKNM_VSipfrW2Irdrx3ojYmgSmO/view?usp=sharing) of the image generation process and here's a link to the [StarGAN_V2 paper](https://arxiv.org/abs/1912.01865)
@@ -69,5 +72,18 @@ In this project I trained machine learning models to classify patient records as
 
 ### Fall 2019 : Food Classification, Betke Lab, Boston University
 In this proejct I worked as an undergraduate intern at the Betke lab under Mona Jalal (PhD). During this time I replicated experiements that had been performed in a previous version of the project that had [been published](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tTXTO0oAAAAJ&citation_for_view=tTXTO0oAAAAJ:eQOLeE2rZwMC). The experiements involved trainining classifiers on Kenyan food images that had been scrapped off of Instagram.
+
+## Guest Talks
+- Summer 2021,2022: Guest Lecture: Boston University Deep Learning Course (CS 523) 
+- Spring 2021: Computer Vision Workshop: Code For Africa
+- Spring 2021: [Arduino Day](https://www.youtube.com/watch?v=k0HQ776d4Kk&t=6660s): Featured Community Member
+- Summer 2020: Undergraduate Research Opportunities Program Symposium
+- Summer 2020: Nairobi Women in Machine Learning and Data Science
+
+## News
+- Boston University Undergraduate Research Opportunities [Feature](https://www.bu.edu/urop/achievements/student-spotlight/featured-researcher-tabitha-oanda/)
+- Shaping Women in STEM Africa [Feature](https://stemwomenafrica.medium.com/stem-woman-crush-tabitha-oanda-64b2aca46ed6)
+- Spell ML [Feature Video](https://www.facebook.com/spelldeeplearning/videos/via-tabitha-oandathis-weekend-i-decided-to-do-some-aerial-practice-on-the-sling-/681506712452484/)
+
 
 
