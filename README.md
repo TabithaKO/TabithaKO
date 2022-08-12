@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on computer vision projects
 - 📫 How to reach me: tkoanda@bu.edu
 - 😄 Pronouns: she/her
-- My [CV](https://github.com/TabithaKO/docs/blob/main/Tabitha_Oanda_CV_data_science_2-2.pdf)
+- My [CV](https://github.com/TabithaKO/docs/blob/main/Tabitha_Oanda_Resume_AI.pdf)
 
 
 
