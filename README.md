@@ -12,6 +12,10 @@
 ### [gans_blazing](https://github.com/TabithaKO/gans_blazing) 🔥 🔥 
 This is an extended project where I use face analysis models and GANs to highlight the possible uses of AI in the fashion and beauty industry. I create notebooks that are easy to use for landmark detection, pose estimation, face reenactment, style transfer, and image inpainting.
 
+
+https://user-images.githubusercontent.com/50864401/184269056-e84ed259-c01f-4c60-ac9d-f90e1bd191f2.MP4
+
+
 ### [Custom Face AutoEncoder](https://github.com/TabithaKO/Autoencoders)
 I trained 4 autoencoders for face images belonging to these groups: Black Women, Black Men, White Women, White Men. The goal of this project was to use autoencoders to compress the image data in order for me to analyze the distribution of the images using simpler models like KNN and logistic regression.
 
@@ -41,6 +45,8 @@ I assembled a robotic arm using servos and servo brackets available on Amazon.
 I used an Arduino to control the servos and a Raspberry Pi to send signals to the Arduino based on a pose detection model. 
 The pose detection model I used was OpenPose. I translated the pose detection predictions from the model into actionable servo signals to control the robotic arm.
 
+
+
 ### [Soft Robotic Hand](https://github.com/TabithaKO/SoftRobot)
 I designed a robotic hand using Shapr3D (CAD software) and a standard 3D printer. 
 I designed some soft robotic muscles using silicone and some Arduino contolled air pumps. 
@@ -63,8 +69,11 @@ I trained a cycleGAN using the StarGAN_V2 architecture. I trained the model on a
 The premise of this project was to train a cross domain style transfer model which can perform better on Black faces. 
 This project is still ongoing hence the repository and data are still private. However, here's a [video demo](https://drive.google.com/file/d/1maN0SwKNM_VSipfrW2Irdrx3ojYmgSmO/view?usp=sharing) of the image generation process and here's a link to the [StarGAN_V2 paper](https://arxiv.org/abs/1912.01865)
 
+https://user-images.githubusercontent.com/50864401/184266588-c692ab97-bc6f-428c-9946-d1c5e6e3543f.MP4[400x200]
+
 ### Summer 2020 : Pose Estimation, Economo Lab, Boston University
 In this project I worked with Professor Economo to collect pose estimates of rodents in the lab using computer vision models DeepLabCut (DLC) and Animal Part Tracker (APT). We later used this pose measurements to prefict future position of the rodent using a timeseries model. More details about the project are [here](https://tabithako.github.io/UROP_Summer2020/).
+
 
 ### Fall 2020 : Disease Diagnosis, Cai Lab, Harvard University
 In this project I trained machine learning models to classify patient records as indicators of certain diseases: Lung Cancer, Arthritis and Coronary Atery Disease. I cleaned and processed the training data by writing code to convert keywords in the sample files to CUIs based on the CUI dictionary provided by MIMIC library. The data came from deidentified patient records, Wikiperdia, MedScape and Uptodate websites. 
@@ -72,7 +81,7 @@ In this project I trained machine learning models to classify patient records as
 ### Fall 2019 : Food Classification, Betke Lab, Boston University
 In this proejct I worked as an undergraduate intern at the Betke lab under Mona Jalal (PhD). During this time I replicated experiements that had been performed in a previous version of the project that had [been published](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tTXTO0oAAAAJ&citation_for_view=tTXTO0oAAAAJ:eQOLeE2rZwMC). The experiements involved trainining classifiers on Kenyan food images that had been scrapped off of Instagram.
 
-## [Guest Talks](#talks)
+## Guest Talks
 - Summer 2021,2022: Guest Lecture: Boston University Deep Learning Course (CS 523) 
 - Spring 2021: Computer Vision Workshop: Code For Africa
 - Spring 2021: [Arduino Day](https://www.youtube.com/watch?v=k0HQ776d4Kk&t=6660s): Featured Community Member
