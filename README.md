@@ -72,7 +72,7 @@ In this project I trained machine learning models to classify patient records as
 ### Fall 2019 : Food Classification, Betke Lab, Boston University
 In this proejct I worked as an undergraduate intern at the Betke lab under Mona Jalal (PhD). During this time I replicated experiements that had been performed in a previous version of the project that had [been published](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tTXTO0oAAAAJ&citation_for_view=tTXTO0oAAAAJ:eQOLeE2rZwMC). The experiements involved trainining classifiers on Kenyan food images that had been scrapped off of Instagram.
 
-## Guest Talks
+## [Guest Talks](#talks)
 - Summer 2021,2022: Guest Lecture: Boston University Deep Learning Course (CS 523) 
 - Spring 2021: Computer Vision Workshop: Code For Africa
 - Spring 2021: [Arduino Day](https://www.youtube.com/watch?v=k0HQ776d4Kk&t=6660s): Featured Community Member
