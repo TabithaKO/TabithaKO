@@ -1,10 +1,9 @@
 ### Hi, I'm Tabby 👋
 
 
-- 🔭 I’m currently working on the application of FaceGANs
+- 🔭 I’m currently working on generative models
 - 👯 I’m looking to collaborate on computer vision projects
 - 📫 How to reach me: tkoanda@bu.edu
-- 😄 Pronouns: she/her
 - My [CV](https://github.com/TabithaKO/docs/blob/main/Tabitha_Oanda_Resume_AI.pdf)
 
 
