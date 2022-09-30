@@ -67,7 +67,7 @@ I design and perform experiments to evaluate the robustness of NERFs under diffe
 ###  Summer 2021 - May 2022 : UniFace, Bargal Lab, Boston University
 I trained a style transfer GAN using the StarGAN_V2 architecture. I trained the model on a custom dataset that comprised of faces of Black celebrities. 
 The premise of this project was to train a cross domain style transfer model which can perform better on Black faces because this demographic was underrepresented in the original data. I eventually wound up training the model to perfrom style transfer across 3 race groups (White, Black, Asian) and 2 gender groups (Male, Female). The groups and genders were determined by the FairFace and UTKFace projects. 
-This project is still ongoing hence the repository and data are still private until publication. However, here's a [video demo](https://drive.google.com/file/d/1maN0SwKNM_VSipfrW2Irdrx3ojYmgSmO/view?usp=sharing) of the image generation process and here's a link to the [StarGAN_V2 paper](https://arxiv.org/abs/1912.01865)
+This project is still ongoing hence the repository and data are still private until publication. However, here's a [video demo](https://drive.google.com/file/d/1maN0SwKNM_VSipfrW2Irdrx3ojYmgSmO/view?usp=sharing) of the image generation process from our custom trained model and here's a link to the [StarGAN_V2 paper](https://arxiv.org/abs/1912.01865)
 
 https://user-images.githubusercontent.com/50864401/184266588-c692ab97-bc6f-428c-9946-d1c5e6e3543f.MP4[400x200]
 
