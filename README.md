@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on generative models which can be used in modern immersive technology AR & VR.
 - 👯 I’m looking to collaborate on computer vision projects
 - 📫 How to reach me: tkoanda@bu.edu
-- My [CV](https://github.com/TabithaKO/docs/blob/main/Tabitha_Oanda_Resume_AI.pdf)
+- My [CV](https://github.com/TabithaKO/docs/blob/main/Tabitha_Oanda_CV_PhD%20(1).pdf)
 
 
 
