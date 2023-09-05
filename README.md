@@ -1,9 +1,9 @@
 ### Hi, I'm Tabby 👋
 
 
-- 🔭 I’m currently working on generative models which can be used in modern immersive technology AR & VR.
-- 👯 I’m looking to collaborate on computer vision projects
-- 📫 How to reach me: tkoanda@bu.edu
+- 🔭 I’m a computer science PhD student at Brown University
+- 👯 I’m looking to collaborate on vision & robotics projects
+- 📫 How to reach me: tabitha[underscore]oanda[at]brown[dot]edu
 - My computer vision [blog articles](https://blog.paperspace.com/author/tabby/)
 - My [CV](https://github.com/TabithaKO/docs/blob/main/Tabitha_Oanda_CV_PhD%20(7).pdf)
 
