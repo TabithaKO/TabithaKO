@@ -1,7 +1,7 @@
 ### Hi, I'm Tabby 👋
 
 
-- 🔭 I’m a computer science PhD student at Brown University
+- 🔭 I’m a computer science PhD student at Brown University advised by Professor Nora Ayanian
 - 👯 I’m looking to collaborate on vision & robotics projects
 - 📫 How to reach me: tabitha[underscore]oanda[at]brown[dot]edu
 - My computer vision [blog articles](https://blog.paperspace.com/author/tabby/)
