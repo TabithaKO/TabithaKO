@@ -18,11 +18,14 @@ A bimanual robot platform I designed and built from scratch: custom aluminum ext
 
 Took PhysTwin and PGND, got them running on cloth data I collected myself, then extended PGND with a differentiable render loss (DINOv2 + SSIM) and live camera conditioning at rollout time. Three model variants — each adds a new supervisory signal on top of the last.
 
-<video src="https://tabithako.github.io/assets/videos/pgnd-ep0201-baseline.mp4" autoplay loop muted playsinline></video>
-<video src="https://tabithako.github.io/assets/videos/pgnd-ep0201-phase2.mp4" autoplay loop muted playsinline></video>
-<video src="https://tabithako.github.io/assets/videos/pgnd-ep0201-visual.mp4" autoplay loop muted playsinline></video>
+<video src="https://github.com/user-attachments/assets/bd9a385b-5c1a-451b-81e4-9d1573f8b3ff" autoplay loop muted playsinline></video>
 
-*Baseline (geometry only) → Phase 2 (+ render loss) → Visual PGND (+ camera conditioning at rollout)*
+*Baseline vs. Visual PGND — all held-out episodes*
+
+<video src="https://github.com/user-attachments/assets/6aa8d951-6bb0-4986-a588-cd9f9ee47395" autoplay loop muted playsinline></video>
+<video src="https://github.com/user-attachments/assets/c4e29a6c-98f1-45e2-aa0b-c4fcbc4ace64" autoplay loop muted playsinline></video>
+
+*PhysTwin novel actions: fold left-over-right · bimanual pull-apart — simulated with parameters learned from a single training trajectory*
 
 ---
 
