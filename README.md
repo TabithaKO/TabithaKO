@@ -8,9 +8,12 @@ I'm a PhD researcher at Brown University advised by [Professor Nora Ayanian](htt
 
 A bimanual robot platform I designed and built from scratch: custom aluminum extrusion frame, two inverted SO-101 arms, ROS2/MoveIt motion planning, and leader-follower teleoperation for data collection.
 
-<video src="https://tabithako.github.io/assets/videos/sew-unit-mirror-bimanual.mp4" autoplay loop muted playsinline></video>
+<table><tr>
+<td><video src="https://github.com/user-attachments/assets/8458be10-d610-4612-bc3f-9db06929b35f" autoplay loop muted playsinline></video></td>
+<td><video src="https://github.com/user-attachments/assets/48f85f00-bee7-4947-a7c1-6855fd8b9cf9" autoplay loop muted playsinline></video></td>
+</tr></table>
 
-<video src="https://tabithako.github.io/assets/videos/sew-unit-teleop-leader.mp4" autoplay loop muted playsinline></video>
+*CAD model spin · Real robot executing a bimanual trajectory*
 
 ---
 
