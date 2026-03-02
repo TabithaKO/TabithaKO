@@ -44,4 +44,4 @@ Two custom end-effectors: silicone FSR grippers with embedded force sensors for 
 - [`TabithaKO/PhysTwin`](https://github.com/TabithaKO/PhysTwin) — SO-101 cloth data pipeline, multi-camera perception, trajectory generation
 - [`TabithaKO/pgnd`](https://github.com/TabithaKO/pgnd) — visual PGND: mesh-constrained Gaussian Splatting + DINOv2 camera conditioning
 
-📄 [tabithako.github.io](https://tabithako.github.io) &nbsp;·&nbsp; 📫 tabitha.oanda@gmail.com &nbsp;·&nbsp; 👗 [Fashion](https://www.tkobytabithaoanda.com/)
+📄 [tabithako.github.io](https://tabithako.github.io) &nbsp;·&nbsp; 👗 [Fashion](https://www.tkobytabithaoanda.com/)
