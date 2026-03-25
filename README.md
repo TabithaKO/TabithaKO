@@ -4,16 +4,16 @@ I'm a PhD researcher at Brown University advised by [Professor Nora Ayanian](htt
 
 ---
 
-### 🦾 [Sew Unit](https://tabithako.github.io/projects/sew-unit) — Bimanual Cloth Manipulation Platform
+### 🧪 [Policy Training](https://tabithako.github.io/projects/policy-training) — ACT for Cloth Folding
 
-A bimanual robot platform I designed and built from scratch: custom aluminum extrusion frame, two inverted SO-101 arms, ROS2/MoveIt motion planning, and leader-follower teleoperation for data collection.
+Training visuomotor fold policies with ACT (Action Chunking with Transformers). 267 demos, 15+ models trained, 40–60% deployment success. Currently comparing image encoders (ResNet vs DINOv2) and pretrained action models (OpenVLA, Octo, pi0).
 
 <table><tr>
-<td><video src="https://github.com/user-attachments/assets/8458be10-d610-4612-bc3f-9db06929b35f" autoplay loop muted playsinline></video></td>
 <td><video src="https://github.com/user-attachments/assets/973178b0-7abc-43d3-9c09-13688ad6d9ff" autoplay loop muted playsinline></video></td>
+<td><video src="https://github.com/user-attachments/assets/c0239691-a1a0-4487-8380-a4908a107a87" autoplay loop muted playsinline></video></td>
 </tr></table>
 
-*CAD model spin · Single arm fold policy in action*
+*Multi-fold with cloth resets · Single fold baseline (ResNet18, no pretrained action model)*
 
 ---
 
@@ -32,24 +32,21 @@ Took PhysTwin and PGND, got them running on cloth data I collected myself, then 
 
 ---
 
-### 🧪 [Policy Training](https://tabithako.github.io/projects/policy-training) — ACT for Cloth Folding
-
-Training visuomotor fold policies with ACT (Action Chunking with Transformers). 267 demos, 15+ models trained, 40–60% deployment success. Currently comparing image encoders (ResNet vs DINOv2) and pretrained action models (OpenVLA, Octo, pi0).
-
-<table><tr>
-<td><video src="https://github.com/user-attachments/assets/973178b0-7abc-43d3-9c09-13688ad6d9ff" autoplay loop muted playsinline></video></td>
-<td><video src="https://github.com/user-attachments/assets/c0239691-a1a0-4487-8380-a4908a107a87" autoplay loop muted playsinline></video></td>
-</tr></table>
-
-*Multi-fold with cloth resets · Single fold baseline (ResNet18, no pretrained action model)*
-
----
-
 ### ✋ [Custom Grippers & Teleop Tools](https://tabithako.github.io/projects/grippers)
 
 Two custom end-effectors: silicone FSR grippers with embedded force sensors for contact-aware grasping, and a UMI-inspired handheld teleop gripper with ArUco markers and IMU for imitation learning data collection.
 
 <video src="https://tabithako.github.io/assets/videos/sew-unit-denim-pinch.mp4" autoplay loop muted playsinline></video>
+
+---
+
+### 🦾 [Sew Unit](https://tabithako.github.io/projects/sew-unit) — Bimanual Cloth Manipulation Platform
+
+A bimanual robot platform I designed and built from scratch: custom aluminum extrusion frame, two inverted SO-101 arms, ROS2/MoveIt motion planning, and leader-follower teleoperation for data collection.
+
+<video src="https://github.com/user-attachments/assets/8458be10-d610-4612-bc3f-9db06929b35f" autoplay loop muted playsinline></video>
+
+*CAD model spin*
 
 ---
 
