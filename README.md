@@ -10,10 +10,10 @@ A bimanual robot platform I designed and built from scratch: custom aluminum ext
 
 <table><tr>
 <td><video src="https://github.com/user-attachments/assets/8458be10-d610-4612-bc3f-9db06929b35f" autoplay loop muted playsinline></video></td>
-<td><video src="https://github.com/user-attachments/assets/3f2f512f-6598-4937-bb3f-87dc7133cae9" autoplay loop muted playsinline></video></td>
+<td><video src="https://github.com/user-attachments/assets/973178b0-7abc-43d3-9c09-13688ad6d9ff" autoplay loop muted playsinline></video></td>
 </tr></table>
 
-*CAD model spin · Real robot executing a bimanual trajectory*
+*CAD model spin · Single arm fold policy in action*
 
 ---
 
@@ -37,8 +37,8 @@ Took PhysTwin and PGND, got them running on cloth data I collected myself, then 
 Training visuomotor fold policies with ACT (Action Chunking with Transformers). 267 demos, 15+ models trained, 40–60% deployment success. Currently comparing image encoders (ResNet vs DINOv2) and pretrained action models (OpenVLA, Octo, pi0).
 
 <table><tr>
-<td><video src="https://tabithako.github.io/assets/videos/multi-fold.mp4" autoplay loop muted playsinline></video></td>
-<td><video src="https://tabithako.github.io/assets/videos/single-fold.mp4" autoplay loop muted playsinline></video></td>
+<td><video src="https://github.com/user-attachments/assets/973178b0-7abc-43d3-9c09-13688ad6d9ff" autoplay loop muted playsinline></video></td>
+<td><video src="https://github.com/user-attachments/assets/c0239691-a1a0-4487-8380-a4908a107a87" autoplay loop muted playsinline></video></td>
 </tr></table>
 
 *Multi-fold with cloth resets · Single fold baseline (ResNet18, no pretrained action model)*
