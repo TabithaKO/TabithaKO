@@ -32,6 +32,19 @@ Took PhysTwin and PGND, got them running on cloth data I collected myself, then 
 
 ---
 
+### 🧪 [Policy Training](https://tabithako.github.io/projects/policy-training) — ACT for Cloth Folding
+
+Training visuomotor fold policies with ACT (Action Chunking with Transformers). 267 demos, 15+ models trained, 40–60% deployment success. Currently comparing image encoders (ResNet vs DINOv2) and pretrained action models (OpenVLA, Octo, pi0).
+
+<table><tr>
+<td><video src="https://tabithako.github.io/assets/videos/multi-fold.mp4" autoplay loop muted playsinline></video></td>
+<td><video src="https://tabithako.github.io/assets/videos/single-fold.mp4" autoplay loop muted playsinline></video></td>
+</tr></table>
+
+*Multi-fold with cloth resets · Single fold baseline (ResNet18, no pretrained action model)*
+
+---
+
 ### ✋ [Custom Grippers & Teleop Tools](https://tabithako.github.io/projects/grippers)
 
 Two custom end-effectors: silicone FSR grippers with embedded force sensors for contact-aware grasping, and a UMI-inspired handheld teleop gripper with ArUco markers and IMU for imitation learning data collection.
